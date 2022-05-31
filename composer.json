@@ -1,5 +1,5 @@
 {
-    "name": "test/test",
+    "name": "testuserforpackagist/testprojectforpackagist",
     "description": "Test project",
     "type": "library",
     "license": "MIT",
